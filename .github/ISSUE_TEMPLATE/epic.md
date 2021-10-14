@@ -10,4 +10,6 @@ title: "EPIC: "
 
 [Description of body of work]
 
-<!-- After creation of the epic, create new Feature request issues and mention this epic to have them link. -->
+<!-- Create a task list of issues that are part of this epic. See https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists -->
+- [ ] #Linked issue number one
+- [ ] Unlinked task issue (can be converted later)
