@@ -14,4 +14,4 @@ Explore some of our featured projects:
 
 ## Get support
 
-Have questions about contributing? Need help with Deephaven? Join us in our [slack channel](https://join.slack.com/t/deephavencommunity/shared_invite/zt-11x3hiufp-DmOMWDAvXv_pNDUlVkagLQ).
+Have questions about contributing? Need help with Deephaven? Join us in our [slack channel](https://deephaven.io/slack).
