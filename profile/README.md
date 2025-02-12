@@ -1,6 +1,6 @@
 ![Open Source at Deephaven](https://github.com/deephaven/.github/blob/main/images/github_header.jpg)
 
-We make working with streaming tables easy.
+We make working with live dataframes easy.
 
 ## Get involved
 
